@@ -374,6 +374,7 @@ basic.showLeds(`
         } else {
           count = 7;
         }        
+          
         srun(pa,pb,pc,pb,1)  
      }        
 
